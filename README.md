@@ -9,4 +9,4 @@ A list of known Public Canadian Mastodon instances. Ordered alphabetically
 | ottawa.place | Mastodon instance for residents of Ottawa, Gatineau, and surrounding regions | `@OttawaPlaceAdmin@ottawa.place` |
 | thecanadian.social | Politics,sports,current events and laughs from Canada and across the fediverse. | `@mike@thecanadian.social` |
 | vancity.social | Metro Vancouver's home on the Fediverse! | `@atomicpoet@vancity.social` |
-| qlub.social | Quebec instance hosted in Canada by the [marketing.express](https://marketing.express) team | `@meadmin@qlub.social`
+| qlub.social | Quebec instance hosted in Canada by the [marketing.express](https://marketing.express) team | `@meadmin@qlub.social` |
